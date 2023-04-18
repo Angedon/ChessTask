@@ -1,0 +1,3 @@
+﻿  Piece.cpp
+c:\users\gleb1\documents\visual studio 2015\projects\chess\chess\piece.hpp(1): warning C4068: неизвестная директива pragma
+LINK : fatal error LNK1561: точка входа должна быть определена

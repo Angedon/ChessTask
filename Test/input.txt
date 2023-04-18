@@ -1,0 +1,8 @@
+king 1 1
+king 1 2
+king 2 2
+    queen   3     1
+ knight  4  3
+  knight 5 1
+  rook 5    4
+bishop    8    4
